@@ -1,0 +1,18 @@
+C:\Users\stan\Documents\Visual Studio 2008\Projects\Jurassic\Jurassic\bin\Debug\Jurassic.exe
+C:\Users\stan\Documents\Visual Studio 2008\Projects\Jurassic\Jurassic\bin\Debug\Jurassic.pdb
+C:\Users\stan\Documents\Visual Studio 2008\Projects\Jurassic\Jurassic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stan\Documents\Visual Studio 2008\Projects\Jurassic\Jurassic\obj\Debug\Jurassic.Form1.resources
+C:\Users\stan\Documents\Visual Studio 2008\Projects\Jurassic\Jurassic\obj\Debug\Jurassic.Properties.Resources.resources
+C:\Users\stan\Documents\Visual Studio 2008\Projects\Jurassic\Jurassic\obj\Debug\Jurassic.csproj.GenerateResource.Cache
+C:\Users\stan\Documents\Visual Studio 2008\Projects\Jurassic\Jurassic\obj\Debug\Jurassic.exe
+C:\Users\stan\Documents\Visual Studio 2008\Projects\Jurassic\Jurassic\obj\Debug\Jurassic.pdb
+D:\Visual Studio 2008\Projects\Jurassic\Jurassic\obj\Debug\Jurassic.exe
+D:\Visual Studio 2008\Projects\Jurassic\Jurassic\obj\Debug\Jurassic.pdb
+C:\Jurassic\Jurassic\obj\Debug\Jurassic.exe
+C:\Jurassic\Jurassic\obj\Debug\Jurassic.pdb
+C:\Jurassic\Jurassic\bin\Debug\Jurassic.exe
+C:\Jurassic\Jurassic\bin\Debug\Jurassic.pdb
+C:\Jurassic\Jurassic\obj\Debug\ResolveAssemblyReference.cache
+C:\Jurassic\Jurassic\obj\Debug\Jurassic.Form1.resources
+C:\Jurassic\Jurassic\obj\Debug\Jurassic.Properties.Resources.resources
+C:\Jurassic\Jurassic\obj\Debug\Jurassic.csproj.GenerateResource.Cache

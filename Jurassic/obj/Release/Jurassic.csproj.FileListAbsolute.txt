@@ -1,0 +1,9 @@
+C:\Jurassic\Jurassic\bin\Release\Jurassic.exe
+C:\Jurassic\Jurassic\bin\Release\Jurassic.pdb
+C:\Jurassic\Jurassic\obj\Release\ResolveAssemblyReference.cache
+C:\Jurassic\Jurassic\obj\Release\Jurassic.Form1.resources
+C:\Jurassic\Jurassic\obj\Release\Jurassic.Properties.Resources.resources
+C:\Jurassic\Jurassic\obj\Release\Jurassic.csproj.GenerateResource.Cache
+C:\Jurassic\Jurassic\obj\Release\Jurassic.exe
+C:\Jurassic\Jurassic\obj\Release\Jurassic.pdb
+C:\Jurassic\Jurassic\obj\Release\Jurassic.Form2.resources
